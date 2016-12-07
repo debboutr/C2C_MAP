@@ -134,10 +134,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-13734197.23107428103685379</xmin>
-      <ymin>5547458.91384313441812992</ymin>
-      <xmax>-13727026.3441038578748703</xmax>
-      <ymax>5556665.20541214756667614</ymax>
+      <xmin>-13735570.34308880195021629</xmin>
+      <ymin>5549501.4749110285192728</ymin>
+      <xmax>-13724650.61822061985731125</xmax>
+      <ymax>5553676.66383121535181999</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -442,7 +442,7 @@
     </legendlayer>
   </legend>
   <Composer title="OSU image" visible="1">
-    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{c7dc1e85-e8d5-43e3-927d-2f359870295e}" alignmentSnap="1" printResolution="300" paperWidth="215.9" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="82.55" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+    <Composition resizeToContentsMarginLeft="0" snapping="1" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{acad4925-38d7-4213-a58f-2d36dac33fd6}" alignmentSnap="1" printResolution="300" paperWidth="215.9" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="82.55" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
           <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -458,19 +458,51 @@
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="11.6936" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="./bennybeaver2.png" northOffset="0" pictureHeight="12.172" mapId="-1" anchorPoint="0">
-        <ComposerItem pagey="26.9213" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="163.917" y="26.9213" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="12.822" outlineWidth="0.3" excludeFromExports="0" uuid="{c3b4d9ad-dd58-40db-ba1e-2d0df2ad1873}" height="12.172" itemRotation="0" frame="false" pagex="163.917">
+      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="5.73073" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="./images/hwy_99.png" northOffset="0" pictureHeight="5.73073" mapId="-1" anchorPoint="0">
+        <ComposerItem pagey="3.76903" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="180" y="3.76903" visibility="1" zValue="23" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="5.73073" outlineWidth="0.3" excludeFromExports="0" uuid="{4b98f91c-f77b-4228-8a7a-d24284caaa2f}" height="5.73073" itemRotation="0" frame="false" pagex="180">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
           <customproperties/>
         </ComposerItem>
       </ComposerPicture>
-      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="1" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="5547458.91384313441812992" xmin="-13742650.78425624035298824" ymax="5556665.20541214756667614" xmax="-13718572.79092189855873585"/>
+      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="5.73073" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="./images/hwy_34.png" northOffset="0" pictureHeight="5.73073" mapId="-1" anchorPoint="0">
+        <ComposerItem pagey="24.6025" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="200" y="24.6025" visibility="1" zValue="16" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="5.73073" outlineWidth="0.3" excludeFromExports="0" uuid="{b2a59b43-f281-4577-8b10-71599178f3ae}" height="5.73073" itemRotation="0" frame="false" pagex="200">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerPicture>
+      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="5.73073" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="./images/hwy_34.png" northOffset="0" pictureHeight="5.73073" mapId="-1" anchorPoint="0">
+        <ComposerItem pagey="70" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="44.9597" y="70" visibility="1" zValue="9" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="5.73073" outlineWidth="0.3" excludeFromExports="0" uuid="{199fc19e-7506-41a3-a35c-1ef58539b6ed}" height="5.73073" itemRotation="0" frame="false" pagex="44.9597">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerPicture>
+      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="5.73073" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="./images/hwy_20.png" northOffset="0" pictureHeight="5.73073" mapId="-1" anchorPoint="0">
+        <ComposerItem pagey="44.3819" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="48.2767" y="44.3819" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="5.73073" outlineWidth="0.3" excludeFromExports="0" uuid="{35625e88-7a04-4161-8dd3-9a7f893d7011}" height="5.73073" itemRotation="0" frame="false" pagex="48.2767">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerPicture>
+      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="11.0145" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="./images/bennybeaver2.png" northOffset="0" pictureHeight="11.4651" mapId="0" anchorPoint="0">
+        <ComposerItem pagey="24.6007" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="155.992" y="24.6007" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="11.921" outlineWidth="0.3" excludeFromExports="0" uuid="{c3b4d9ad-dd58-40db-ba1e-2d0df2ad1873}" height="11.4651" itemRotation="0" frame="false" pagex="155.992">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerPicture>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="5546603.97758347354829311" xmin="-13742998.76673985086381435" ymax="5556459.72576622758060694" xmax="-13717222.19456957094371319"/>
         <LayerSet/>
         <Grid/>
-        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{2a7f77be-3eb6-4e27-971b-6a9137af9abc}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{54fa83c8-9919-4d13-8fc3-dac69a9254dc}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
           <lineStyle>
             <symbol alpha="1" clip_to_extent="1" type="line" name="">
               <layer pass="0" class="SimpleLine" locked="0">
@@ -519,7 +551,7 @@
           <annotationFontProperties description="Oxygen-Sans Sans-Book,11,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="0" page="1" id="" lastValidViewScaleFactor="2.35206" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="215.9" outlineWidth="0.3" excludeFromExports="0" uuid="{c7dc1e85-e8d5-43e3-927d-2f359870295e}" height="82.55" itemRotation="0" frame="false" pagex="0">
+        <ComposerItem pagey="0" page="1" id="" lastValidViewScaleFactor="3.76827" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="215.9" outlineWidth="0.3" excludeFromExports="0" uuid="{acad4925-38d7-4213-a58f-2d36dac33fd6}" height="82.55" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="150" blue="68" green="168"/>
           <customproperties/>
@@ -530,8 +562,14 @@
   </Composer>
   <projectlayers>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-123.36876399999994192</xmin>
+        <ymin>44.51083960000005391</ymin>
+        <xmax>-123.35886420562049182</xmax>
+        <ymax>44.54119791998815003</ymax>
+      </extent>
       <id>13th20161106011404475</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/13th.shp</datasource>
+      <datasource>./layers/13th.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -928,7 +966,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>15th20161106011405353</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/15th.shp</datasource>
+      <datasource>./layers/15th.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1325,7 +1363,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>19th20161207023952995</id>
-      <datasource>./19th.shp</datasource>
+      <datasource>./layers/19th.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1721,8 +1759,14 @@
       </conditionalstyles>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-123.28970379999998386</xmin>
+        <ymin>44.55179690000005621</ymin>
+        <xmax>-123.28952559999999039</xmax>
+        <ymax>44.57175940000007586</ymax>
+      </extent>
       <id>35th20161106011406121</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/35th.shp</datasource>
+      <datasource>./layers/35th.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1858,7 +1902,7 @@
         <ymax>44.59406588686569251</ymax>
       </extent>
       <id>53rd20161207024146721</id>
-      <datasource>./53rd.shp</datasource>
+      <datasource>./layers/53rd.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2450,8 +2494,14 @@
       </conditionalstyles>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-123.29939500000000407</xmin>
+        <ymin>44.28364000000010492</ymin>
+        <xmax>-123.21851600000002236</xmax>
+        <ymax>44.72017800000003263</ymax>
+      </extent>
       <id>9920161106011406510</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/99.shp</datasource>
+      <datasource>./layers/99.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2744,7 +2794,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>9th20161207031754907</id>
-      <datasource>./9th.shp</datasource>
+      <datasource>./layers/9th.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2871,7 +2921,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>BLM20161106011859833</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/BLM.shp</datasource>
+      <datasource>./layers/BLM.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3033,7 +3083,7 @@
         <ymax>44.65479710000005298</ymax>
       </extent>
       <id>BLM_Roads_NamedOnly20161106011407284</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/BLM_Roads_NamedOnly.shp</datasource>
+      <datasource>./layers/BLM_Roads_NamedOnly.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3487,7 +3537,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Chapel20161106011407667</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Chapel.shp</datasource>
+      <datasource>./layers/Chapel.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3941,7 +3991,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Fairgrounds20161206213049648</id>
-      <datasource>./Fairgrounds.shp</datasource>
+      <datasource>./layers/Fairgrounds.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4186,7 +4236,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>GrangeHall20161106011408460</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/GrangeHall.shp</datasource>
+      <datasource>./layers/GrangeHall.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4582,8 +4632,14 @@
       </conditionalstyles>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-123.31209149999995134</xmin>
+        <ymin>44.56758580000007441</ymin>
+        <xmax>-123.26048049999997147</xmax>
+        <ymax>44.57178740000006201</ymax>
+      </extent>
       <id>Harrison20161106011408862</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Harrison.shp</datasource>
+      <datasource>./layers/Harrison.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5182,7 +5238,7 @@
         <ymax>44.67931499999999545</ymax>
       </extent>
       <id>Hwy2020161106011409274</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Hwy20.shp</datasource>
+      <datasource>./layers/Hwy20.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5335,7 +5391,7 @@
         <ymax>44.56728299999999621</ymax>
       </extent>
       <id>Hwy3420161106011409674</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Hwy34.shp</datasource>
+      <datasource>./layers/Hwy34.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5482,7 +5538,7 @@
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Lakes_NHD20161106011852458</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Lakes_NHD.shp</datasource>
+      <datasource>./layers/Lakes_NHD.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5844,7 +5900,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>NHDFlowlines_Albers20161106011845400</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/NHDFlowlines_Albers.shp</datasource>
+      <datasource>./layers/NHDFlowlines_Albers.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6029,7 +6085,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>OSU_Poly20161206203656572</id>
-      <datasource>./OSU_Poly.shp</datasource>
+      <datasource>./layers/OSU_Poly.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6277,7 +6333,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>OSU_bike20161206213602197</id>
-      <datasource>./OSU_bike.shp</datasource>
+      <datasource>./layers/OSU_bike.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6387,7 +6443,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>OakCreek20161207030023990</id>
-      <datasource>./OakCreek.shp</datasource>
+      <datasource>./layers/OakCreek.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6979,8 +7035,14 @@ def my_form_open(dialog, layer, feature):
       </conditionalstyles>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-123.51964749999996229</xmin>
+        <ymin>44.53057630000006384</ymin>
+        <xmax>-123.39159009999998773</xmax>
+        <ymax>44.54573880000004493</ymax>
+      </extent>
       <id>OldPeak20161106011410079</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/OldPeak.shp</datasource>
+      <datasource>./layers/OldPeak.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7443,6 +7505,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Oxygen-Sans Sans-Book,11,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -7655,7 +7718,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1652481.93307086010463536</ymax>
       </extent>
       <id>Oregon_Coastal_Highway10120161106011410484</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Oregon_Coastal_Highway101.shp</datasource>
+      <datasource>./layers/Oregon_Coastal_Highway101.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7792,7 +7855,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Papenfus_line20161106011752693</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Papenfus_line.shp</datasource>
+      <datasource>./layers/Papenfus_line.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7957,7 +8020,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Reservoir20161207025649443</id>
-      <datasource>./Reservoir.shp</datasource>
+      <datasource>./layers/Reservoir.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -8556,7 +8619,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>44.54796666666666738</ymax>
       </extent>
       <id>Signs20161106010957769</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/Signs.shp</datasource>
+      <datasource>./layers/Signs.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -8875,7 +8938,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>2728317.71590000065043569</ymax>
       </extent>
       <id>StrahlerStreams_Albers20161106011830919</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/StrahlerStreams_Albers.shp</datasource>
+      <datasource>./layers/StrahlerStreams_Albers.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9312,7 +9375,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>TrailFromBLM20161106011411444</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/TrailFromBLM.shp</datasource>
+      <datasource>./layers/TrailFromBLM.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9692,7 +9755,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>USFS20161106011905157</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/USFS.shp</datasource>
+      <datasource>./layers/USFS.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9848,7 +9911,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Walnut20161207025322386</id>
-      <datasource>./Walnut.shp</datasource>
+      <datasource>./layers/Walnut.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -10441,7 +10504,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>WestHills20161207023847253</id>
-      <datasource>./WestHills.shp</datasource>
+      <datasource>./layers/WestHills.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -11040,7 +11103,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>2706279.42779999971389771</ymax>
       </extent>
       <id>Willamette20161206193613794</id>
-      <datasource>./Willamette.shp</datasource>
+      <datasource>./layers/Willamette.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -11670,7 +11733,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>44.5564486000000457</ymax>
       </extent>
       <id>WoodsCreek20161106011411875</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/WoodsCreek.shp</datasource>
+      <datasource>./layers/WoodsCreek.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12049,8 +12112,14 @@ def my_form_open(dialog, layer, feature):
       </conditionalstyles>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-123.39188204571007645</xmin>
+        <ymin>44.52923396322387362</ymin>
+        <xmax>-123.26349671843939859</xmax>
+        <ymax>44.55725949197210412</ymax>
+      </extent>
       <id>bikepath20161106011406885</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/bikepath.shp</datasource>
+      <datasource>./layers/bikepath.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12183,7 +12252,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1641590.75</ymax>
       </extent>
       <id>cities20161106011031875</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/cities.shp</datasource>
+      <datasource>./layers/cities.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12321,7 +12390,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>drive_9_1820161106011408060</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/drive_9_18.shp</datasource>
+      <datasource>./layers/drive_9_18.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12491,7 +12560,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>pts_9_1820161106011411029</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/pts_9_18.shp</datasource>
+      <datasource>./layers/pts_9_18.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12719,7 +12788,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>tract_Albers20161106011913034</id>
-      <datasource>/home/rick/projects/c2c/QGIS_trailMap/layers/tract_Albers.shp</datasource>
+      <datasource>./layers/tract_Albers.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
